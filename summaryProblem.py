@@ -1,3 +1,11 @@
+#######################################
+#                                     #
+#   Summary Problem Python Solution   #
+#   By Eric Frierson                  #
+#   efrierson@ebsco.com               #
+#                                     #
+#######################################
+
 import math
 
 # calculate side length

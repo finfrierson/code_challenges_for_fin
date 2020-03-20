@@ -7,7 +7,7 @@
 #######################################
 
 import math
-
+#GIVE IT KNOWELAGE ===|====>
 # calculate side length
 def calculate_side(x1,y1,x2,y2):
     base = abs(x1 - x2)
